@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eo040/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋飲膳正要三卷元忽思慧撰前有天曆三年常普蘭奚進書表虞集奉敕序蓋元代飲膳太醫官書也明景泰間重刻於內府此本皕宋樓藏書志作元刊元印余向見常熟瞿氏鐵琴銅劍樓藏本同出一刻而楮印較遜有景泰年序知此為明本而非元本特佚去景泰一序耳其書詳於育嬰妊娠飲膳衛生食性宜忌諸端雖未合於醫學真理然可考見元人之俗尚舊時民間傳本極稀近世藏目以鈔本為多究不若此刊本之可信余求之有年十七年冬始覯之於東京靜嘉文庫因得借印流傳償余夙昔之願焉民國紀元十有九年十月鹽海張元濟景泰一序原書已佚初版未獲印入殊為缺憾嗣從瞿氏借得今當重印因以冠諸卷端讀者鑑之元濟再識
+  hash: sha256:06570601804d8a8492852fb9069db11554e792d3ca1364bd3831ea33ff9c3eaa
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eo040_jc_000-d6.h1s1}
+metadata:
+  title: 飲膳正要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo040.xml
+hash: sha256:928f0ea9ad1c6fd35826963402d204048ae3c1e7a02a8f4901ed7cdb1deb98c4
